@@ -13,12 +13,11 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-         Space Jelly Shop
+          Space Jelly Shop
         </h1>
 
         <p className={styles.description}>
-          Get started by editing{' '}
-          <code className={styles.code}>pages/index.js</code>
+          The best space jellyfish swag on the web!
         </p>
 
         <ul className={styles.grid}>
